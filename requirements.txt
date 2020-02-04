@@ -1,2 +1,4 @@
-flask>=0.12.3
-werkzeug>=0.15.0
+Flask==1.1.1
+SQL Alchemy
+flask-login
+Werkzeug==0.16.0
